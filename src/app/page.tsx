@@ -17,7 +17,7 @@ export default function Home() {
           <li>I appreciate the component based structure of React and like the ease of the next framework for developing a page</li>
         </ul><br></br>
         <p>The site is hosted on my personal GitHub through GitHub pages: <a href="https://github.com/Uyyam" target="_blank">My GitHub Account</a></p>
-        <Image src="/chopper.png" alt="My Headshot" width={300} height={300}></Image>
+        <Image src="chopper.png" alt="Tony Tony Chopper" width={300} height={300}></Image>
         
         
       </main>
