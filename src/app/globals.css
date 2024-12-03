@@ -5,8 +5,8 @@
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
+    --background: #ffc0b5;
+    --foreground: #3b0900;
   }
 }
 
@@ -28,12 +28,14 @@ body {
   box-sizing: border-box;
   padding: 0;
   margin: 0;
+  font-weight: bold;
 }
 
 a {
-  color: inherit;
+  color: #a3185e;
   text-decoration: none;
 }
+
 
 @media (prefers-color-scheme: dark) {
   html {

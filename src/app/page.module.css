@@ -148,6 +148,7 @@ a.secondary {
     font-size: 14px;
     height: 40px;
     padding: 0 16px;
+    justify-content: center;
   }
 
   a.secondary {
