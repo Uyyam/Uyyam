@@ -17,7 +17,7 @@ export default function Home() {
           <li>The framework has a lot built in, with a site template that I can use and CSS styling already applied</li>
           <li>I appreciate the component based structure of React and like the ease of the next framework for developing a page</li>
         </ul><br></br>
-        <p>The site is hosted on my personal GitHub through GitHub pages: <a href="https://github.com/Uyyam" target="_blank">My GitHub Account</a></p>
+        <p>The site is hosted on my personal GitHub through GitHub pages, deploying was very confusing: <a href="https://github.com/Uyyam" target="_blank">My GitHub Account</a></p>
         <Image src="/chopper.png" alt="My Headshot" width={300} height={300}></Image>
         
         
